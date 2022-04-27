@@ -1,0 +1,16 @@
+div{
+    margin: 5px;
+    padding: 5px;
+}
+
+
+
+#like_button{
+    font-size: 36px;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline:none;
+}
