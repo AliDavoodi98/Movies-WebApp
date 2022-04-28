@@ -14,3 +14,7 @@ div{
     overflow: hidden;
     outline:none;
 }
+
+.clickable{
+    cursor: pointer;
+}
