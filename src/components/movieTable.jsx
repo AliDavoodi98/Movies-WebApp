@@ -93,7 +93,7 @@ class Movies extends Component {
         return (
 
             <div class="container">
-                <Navbar />
+                
   <div class="row">
     <div class="col-3">
       <FilterGenre 
